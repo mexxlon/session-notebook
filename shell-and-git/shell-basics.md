@@ -33,3 +33,4 @@
 - `Ctrl + Z`: Suspend the current command.
 - `Ctrl + L`: Clear the terminal screen.
 - `q`: Quit
+- `man <command>`: Display manual page for a command
