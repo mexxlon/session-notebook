@@ -15,3 +15,4 @@ git init`: Initialize a new Git repository.
 - `**bold text**`: Makes text bold.
 - `*italic text*`: Makes text italic.
 - `- List item`: Creates a list item.
+- `cat`: Creates a cat item.
